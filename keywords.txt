@@ -1,0 +1,5 @@
+SandTimer	KEYWORD1
+start		KEYWORD2
+startOver	KEYWORD2	
+finished	KEYWORD2
+reset		KEYWORD2
